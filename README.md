@@ -34,7 +34,7 @@ Marine science programming workflows and data analysis.
 Bioinformatics and genomic analysis.
 
 ### Module 4
-Google Earth Engine, remote sensing and spatial analysis.
+Google Earth Engine and spatial analysis.
 
 ## 🐟 About me
 
