@@ -10,7 +10,6 @@ I use coding and spatial analysis to explore marine science questions, with expe
 - Marine ecology and conservation
 - Coral reef ecosystems
 - Spatial and environmental analysis
-- Marine data analysis
 
 ## 💻 Technical skills
 
@@ -28,7 +27,7 @@ This GitHub profile contains my coursework for MB5370, demonstrating the use of 
 R programming and data analysis.
 
 ### Module 2
-Marine science programming workflows and data analysis.
+Marine science programming drawing ecological conclusions.
 
 ### Module 3
 Bioinformatics and genomic analysis.
