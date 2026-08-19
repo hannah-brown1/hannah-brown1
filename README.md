@@ -1,15 +1,16 @@
 # Hi, I'm Hannah 👋
 
-I'm a Master of Marine Biology student with interests in fisheries science, marine ecology and conservation.
+I'm a Master of Marine Biology student with a particular interest in fisheries science and management.
 
-I use coding and spatial analysis to explore marine science questions, with experience in R, GIS, Google Earth Engine and bioinformatics.
+I use data and spatial analysis to explore marine science questions, with experience in R, GIS, Google Earth Engine and bioinformatics.
 
 ## 🌊 Areas of interest
 
 - Fisheries science and management
-- Marine ecology and conservation
-- Coral reef ecosystems
-- Spatial and environmental analysis
+- Fish ecology
+- Population dynamics
+- Environmental drivers of fish distribution
+- Fisheries monitoring and conservation
 
 ## 💻 Technical skills
 
@@ -24,10 +25,10 @@ I use coding and spatial analysis to explore marine science questions, with expe
 This GitHub profile contains my coursework for MB5370, demonstrating the use of programming and computational tools in marine science.
 
 ### Module 1
-R programming and data analysis.
+Programming fundamentals and data analysis in R.
 
 ### Module 2
-Marine science programming drawing ecological conclusions.
+Marine science data wrangling, visualisation and ecological interpretation.
 
 ### Module 3
 Bioinformatics and genomic analysis.
@@ -35,6 +36,6 @@ Bioinformatics and genomic analysis.
 ### Module 4
 Google Earth Engine and spatial analysis.
 
-## 🐟 About me
+## 🐟 Professional Interests
 
-I'm particularly interested in applying quantitative and spatial tools to fisheries, marine conservation and ecological monitoring.
+I'm particularly interested in applying quantitative and spatial tools to fisheries research, monitoring and management.
